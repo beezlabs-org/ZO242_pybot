@@ -1,0 +1,9 @@
+git+https://github.com/beezlabs-org/tulip-py-lib.git@1.0.1
+git+https://github.com/beezlabs-org/sap-py-lib.git@1.0.1
+git+https://github.com/beezlabs-org/dms-py-lib@1.0.2
+pytest-html~=4.1.1
+pytest~=8.2.1
+PyAutoGUI==0.9.54
+path==16.9.0
+pillow==10.3.0
+psutil~=6.0.0
