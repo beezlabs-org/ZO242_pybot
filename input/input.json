@@ -1,0 +1,156 @@
+{
+  "hiveBotId": "8cdda32f-d8f3-480c-af93-d51580d31abc",
+  "executionId": "00000000-0000-0000-0000-000000000000",
+  "identityList": [],
+  "connectionParams": null,
+  "proposedBotInputs": {
+    "language": {
+      "value": "EN",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "dmsCred": {
+      "value": "tulipGeneric",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "sapCreds": {
+      "value": "sapQ00",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "serverNameSap": {
+      "value": "Q00 [bacsapq00.gva.data]",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "transactionCode": {
+      "value": "ZO242",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "client": {
+      "value": "100",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "variant": {
+      "value": "5280_SOXOTC018",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "beekeeperUrl": {
+      "value": "https://dev-tulip.onebacardi.com/",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "startDate": {
+      "value": "2023-10-1",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "endDate": {
+      "value": "2024-01-31",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "selectionscreenName": {
+      "value": "selectionscreenfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "DistributionName": {
+      "value": "Distributionfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "variantDetailName": {
+      "value": "variantDetailfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "finalscreenName": {
+      "value": "finalscreenfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "filename": {
+      "value": "TX06_Databbbbnnnnnnpgh.XLSX",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "reportscreenshot": {
+      "value": "reportscreenshotfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "variantscreen_filename": {
+      "value": "variantscreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "variantScreenshotVariableName": {
+      "value": "variantscreenfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "Distributionscreen_filename": {
+      "value": "distribution.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "DistributionScreenshotVariableName": {
+      "value": "distributionfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "selectionscreen_filename": {
+      "value": "selectionscreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "selectionScreenVariableName": {
+      "value": "selectionscreenfilesignature",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+    },
+    "reportscreen_filename": {
+      "value": "reportscreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+
+    },
+    "reportscreenScreenshotVariableName": {
+      "value": "reportscreen.png",
+      "type": 0,
+      "objectTypeName": "",
+      "flowVariable": false
+
+    }
+
+
+  }
+}
